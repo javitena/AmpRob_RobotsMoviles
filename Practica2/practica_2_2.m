@@ -15,7 +15,7 @@ y0= 2;
 phi0= 0; % Entre -pi y pi
 
 %Distancia al punto objetivo
-d=3;
+d=1;
 
 %Velocidad enunciado
 v=0.3;
